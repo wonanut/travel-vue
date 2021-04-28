@@ -4,31 +4,31 @@
 
 前端主页：
 
-![主页图片](C:\Users\len\Desktop\主页图片.png)
+![主页图片](./snapshot/主页图片.png)
 
 登陆界面
 
-![登录界面](C:\Users\len\Desktop\登录界面.png)
+![登录界面](./snapshot/登录界面.png)
 
 公告栏
 
-![公告栏](C:\Users\len\Desktop\公告栏.png)
+![公告栏](./snapshot/公告栏.png)
 
 普通用户个人主页
 
-![普通用户主页](C:\Users\len\Desktop\普通用户主页.png)
+![普通用户主页](./snapshot/普通用户主页.png)
 
 后台管理图片1
 
-![后台管理图片1](C:\Users\len\Desktop\后台管理图片1.png)
+![后台管理图片1](./snapshot/后台管理图片1.png)
 
 后台管理图片2
 
-![后台管理图片2](C:\Users\len\Desktop\后台管理图片2.png)
+![后台管理图片2](./snapshot/后台管理图片2.png)
 
 后台管理图片3
 
-![后台管理图片3](C:\Users\len\Desktop\后台管理图片3.png)
+![后台管理图片3](./snapshot/后台管理图片3.png)
 
 
 
