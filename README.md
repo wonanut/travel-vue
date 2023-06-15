@@ -1,4 +1,5 @@
 # travel-vue
+> 特别说明：这个项目是纯前端项目，配套的后端代码在我的这个仓库https://github.com/wonanut/travel
 
 ## 1 Project snapshot
 
